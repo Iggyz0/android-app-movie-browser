@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/page_popular"
+        android:enabled="true"
+        android:icon="@drawable/ic_popular"
+        android:title="@string/popular"
+        android:iconTint="@color/purple_200"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/page_my_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_my_list"
+        android:title="@string/my_list"
+        app:showAsAction="ifRoom"/>
+</menu>

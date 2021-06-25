@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_top"
+        android:title="Search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+
+    <group
+        android:id="@+id/genreGroup">
+        <item
+            android:id="@+id/g28"
+            android:title="Action" />
+
+        <item
+            android:id="@+id/g12"
+            android:title="Adventure" />
+
+        <item
+            android:id="@+id/g16"
+            android:title="Animation" />
+
+        <item
+            android:id="@+id/g35"
+            android:title="Comedy" />
+
+        <item
+            android:id="@+id/g80"
+            android:title="Crime" />
+
+        <item
+            android:id="@+id/g99"
+            android:title="Documentary" />
+
+        <item
+            android:id="@+id/g18"
+            android:title="Drama" />
+
+        <item
+            android:id="@+id/g10751"
+            android:title="Family" />
+
+        <item
+            android:id="@+id/g14"
+            android:title="Fantasy" />
+
+        <item
+            android:id="@+id/g36"
+            android:title="History" />
+
+        <item
+            android:id="@+id/g27"
+            android:title="Horror" />
+
+        <item
+            android:id="@+id/g10402"
+            android:title="Music" />
+
+        <item
+            android:id="@+id/g9648"
+            android:title="Mystery" />
+
+        <item
+            android:id="@+id/g10749"
+            android:title="Romance" />
+
+        <item
+            android:id="@+id/g878"
+            android:title="Science Fiction" />
+
+        <item
+            android:id="@+id/g10770"
+            android:title="TV Movie" />
+
+        <item
+            android:id="@+id/g53"
+            android:title="Thriller" />
+
+        <item
+            android:id="@+id/g10752"
+            android:title="War" />
+
+        <item
+            android:id="@+id/g37"
+            android:title="Western" />
+
+    </group>
+
+</menu>
