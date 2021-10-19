@@ -1,3 +1,5 @@
+// source: https://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks/
+
 package com.example.moviebrowser;
 
 import android.view.View;
